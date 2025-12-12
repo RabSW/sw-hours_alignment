@@ -1,0 +1,15 @@
+Keep things simple and have a good codebase.
+When uncertain about something investigate it through the web. 
+If you don't know something admit it.
+Don't overengineer: Simple beats complex
+No fallbacks: One correct path, no alternatives
+One way: One way to do things, not many
+Clarity over compatibility: Clear code beats backward compatibility
+Throw errors: Fail fast when preconditions aren't met
+No backups: Trust the primary mechanism
+Separation of concerns: Each function should have a single responsibility
+Surgical changes only: Make minimal, focused fixes
+Evidence-based debugging: Add minimal, targeted logging
+Fix root causes: Address the underlying issue, not just symptoms
+Simple > Complex: Let TypeScript catch errors instead of excessive runtime checks
+Collaborative process: Work with user to identify most efficient solution

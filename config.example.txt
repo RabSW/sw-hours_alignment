@@ -1,0 +1,15 @@
+# Copy this to .env and fill in your credentials
+
+# SQL Server Configuration
+SQL_SERVER=your-server.database.windows.net
+SQL_DATABASE=your-database
+SQL_USERNAME=your-username
+SQL_PASSWORD=your-password
+SQL_DRIVER=ODBC Driver 17 for SQL Server
+
+# SharePoint Configuration
+SHAREPOINT_SITE_URL=https://yourcompany.sharepoint.com/sites/yoursite
+SHAREPOINT_USERNAME=your-email@yourcompany.com
+SHAREPOINT_PASSWORD=your-password
+SHAREPOINT_FILE_PATH=/Shared Documents/your-file.xlsx
+

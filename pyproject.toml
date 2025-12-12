@@ -1,0 +1,17 @@
+[project]
+name = "sw-hours-alignment"
+version = "0.1.0"
+description = "SQL and SharePoint integration for hours alignment"
+requires-python = ">=3.10"
+dependencies = [
+    "sqlalchemy>=2.0.0",
+    "pyodbc>=5.0.0",
+    "office365-rest-python-client>=2.5.0",
+    "python-dotenv>=1.0.0",
+    "pandas>=2.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
